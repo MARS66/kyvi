@@ -1,0 +1,85 @@
+<!--
+ * @Description:
+ * @Author: Kevin
+ * @Date: 2024-04-09 11:14:48
+ * @LastEditors: Kevin
+ * @LastEditTime: 2024-05-22 11:00:22
+-->
+<template>
+  <section class="app-main">
+    <transition name="fade-transform" mode="out-in">
+      <keep-alive :include="cachedViews">
+        <router-view v-if="!$route.meta.link" :key="key" />
+      </keep-alive>
+    </transition>
+    <iframe-toggle />
+  </section>
+</template>
+
+<script>
+import iframeToggle from "./IframeToggle/index";
+
+export default {
+  name: "AppMain",
+  components: { iframeToggle },
+  computed: {
+    cachedViews() {
+      return this.$store.state.tagsView.cachedViews;
+    },
+    key() {
+      return this.$route.path;
+    },
+  },
+};
+</script>
+
+<style lang="scss" scoped>
+.app-main {
+  /* 50= navbar  50  */
+  height: calc(100vh - 50px);
+  width: 100%;
+  position: relative;
+  overflow: scroll;
+  padding: 15px;
+  box-sizing: border-box;
+  background: #f0f2f5;
+}
+
+.fixed-header + .app-main {
+  padding-top: 50px;
+}
+
+.hasTagsView {
+  .app-main {
+    /* 84 = navbar + tags-view = 50 + 34 */
+    min-height: calc(100vh - 84px);
+  }
+
+  .fixed-header + .app-main {
+    padding-top: 84px;
+  }
+}
+</style>
+
+<style lang="scss">
+// fix css style bug in open el-dialog
+.el-popup-parent--hidden {
+  .fixed-header {
+    padding-right: 6px;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #c0c0c0;
+  border-radius: 3px;
+}
+</style>
