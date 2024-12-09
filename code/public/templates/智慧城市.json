@@ -1,0 +1,4238 @@
+{
+    "x": -2986,
+    "y": -558,
+    "scale": 0.2369573609872332,
+    "pens": [
+        {
+            "name": "gif",
+            "y": 994.7804739283821,
+            "x": 3177.8032649886513,
+            "width": 50.514570215258416,
+            "height": 20.12241909503586,
+            "image": "/src/static/文本框/科技 (7).gif",
+            "id": "45c76e6",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "45c76e6"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "45c76e6"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "45c76e6"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "45c76e6"
+                }
+            ],
+            "rotate": -36,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3228.31783520391,
+            "ey": 1014.902893023418,
+            "center": {
+                "x": 3203.0605500962806,
+                "y": 1004.8416834759
+            },
+            "zIndex": 0
+        },
+        {
+            "name": "image",
+            "y": 705.4889143515067,
+            "x": 2972.1296399369385,
+            "width": 454.9581330954877,
+            "height": 255.91394986621196,
+            "image": "/src/static/办公楼/test.svg",
+            "id": "5f249303",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 3,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "5f249303"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "5f249303"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "5f249303"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "5f249303"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3427.0877730324264,
+            "ey": 961.4028642177186,
+            "center": {
+                "x": 3199.6087064846824,
+                "y": 833.4458892846126
+            },
+            "connectedLines": [
+                {
+                    "lineId": "220c1b41",
+                    "lineAnchor": "12f5ec0f",
+                    "anchor": "1"
+                }
+            ]
+        },
+        {
+            "name": "image",
+            "y": 698.0060559731082,
+            "x": 3353.9627314317668,
+            "width": 73.12504160066015,
+            "height": 55.130499607289565,
+            "image": "/src/static/办公楼/建筑3.svg",
+            "id": "378cc44",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "378cc44"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "378cc44"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "378cc44"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "378cc44"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3427.087773032427,
+            "ey": 753.1365555803978,
+            "center": {
+                "x": 3390.525252232097,
+                "y": 725.571305776753
+            }
+        },
+        {
+            "name": "image",
+            "y": 807.846069147378,
+            "x": 2972.1296399369385,
+            "width": 67.50651928569623,
+            "height": 60.09238674636235,
+            "image": "/src/static/办公楼/建筑5.svg",
+            "id": "e9e97d3",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "e9e97d3"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "e9e97d3"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "e9e97d3"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "e9e97d3"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3039.636159222635,
+            "ey": 867.9384558937403,
+            "center": {
+                "x": 3005.8828995797867,
+                "y": 837.8922625205591
+            }
+        },
+        {
+            "name": "image",
+            "y": 945.9816791646683,
+            "x": 3192.028440506701,
+            "width": 39.49368335574217,
+            "height": 43.173631171873836,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "a8cf454",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 3,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "a8cf454"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "a8cf454"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "a8cf454"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "a8cf454"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3231.522123862443,
+            "ey": 989.1553103365421,
+            "center": {
+                "x": 3211.775282184572,
+                "y": 967.5684947506053
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 957.052327069993,
+            "x": 3174.9888366781106,
+            "width": 39.49368335574217,
+            "height": 43.173631171873836,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "0da3360",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "0da3360"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "0da3360"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "0da3360"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "0da3360"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3214.482520033853,
+            "ey": 1000.2259582418668,
+            "center": {
+                "x": 3194.7356783559817,
+                "y": 978.63914265593
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 968.0258224573117,
+            "x": 3157.6530361482837,
+            "width": 39.49368335574217,
+            "height": 43.173631171873836,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "7ac21ae",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "7ac21ae"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "7ac21ae"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "7ac21ae"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "7ac21ae"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3197.146719504026,
+            "ey": 1011.1994536291855,
+            "center": {
+                "x": 3177.399877826155,
+                "y": 989.6126380432487
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 935.4655114840563,
+            "x": 3208.762108647614,
+            "width": 39.49368335574217,
+            "height": 43.173631171873836,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "e063226",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "e063226"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "e063226"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "e063226"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "e063226"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3248.255792003356,
+            "ey": 978.6391426559301,
+            "center": {
+                "x": 3228.508950325485,
+                "y": 957.0523270699932
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 979.1130573779046,
+            "x": 3140.5115406544674,
+            "width": 39.49368335574217,
+            "height": 43.17363117187392,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "7af811c7",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "7af811c7"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "7af811c7"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "7af811c7"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "7af811c7"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3180.0052240102095,
+            "ey": 1022.2866885497785,
+            "center": {
+                "x": 3160.2583823323384,
+                "y": 1000.6998729638416
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 936.0792310490128,
+            "x": 3313.2333380418495,
+            "width": 39.49368335574217,
+            "height": 43.173631171873836,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "be96a6c",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 3,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "be96a6c"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "be96a6c"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "be96a6c"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "be96a6c"
+                }
+            ],
+            "rotate": 360,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3352.7270213975917,
+            "ey": 979.2528622208866,
+            "center": {
+                "x": 3332.9801797197206,
+                "y": 957.6660466349498
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 947.1498789543368,
+            "x": 3296.1937342132596,
+            "width": 39.49368335574217,
+            "height": 43.173631171873836,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "9099d54",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "9099d54"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "9099d54"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "9099d54"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "9099d54"
+                }
+            ],
+            "rotate": 360,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3335.687417569002,
+            "ey": 990.3235101262106,
+            "center": {
+                "x": 3315.9405758911307,
+                "y": 968.7366945402738
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 958.1233743416557,
+            "x": 3278.8579336834327,
+            "width": 39.49368335574217,
+            "height": 43.173631171873836,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "446a59",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "446a59"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "446a59"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "446a59"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "446a59"
+                }
+            ],
+            "rotate": 360,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3318.351617039175,
+            "ey": 1001.2970055135295,
+            "center": {
+                "x": 3298.604775361304,
+                "y": 979.7101899275926
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 925.5630633684002,
+            "x": 3329.966059484588,
+            "width": 39.49368335574217,
+            "height": 43.17363117187388,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "adc721b",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "adc721b"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "adc721b"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "adc721b"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "adc721b"
+                }
+            ],
+            "rotate": 360,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3369.4597428403304,
+            "ey": 968.7366945402741,
+            "center": {
+                "x": 3349.7129011624593,
+                "y": 947.1498789543372
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 969.2106092622481,
+            "x": 3261.7164381896173,
+            "width": 39.49368335574217,
+            "height": 43.173631171873836,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "9e99cda",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "9e99cda"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "9e99cda"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "9e99cda"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "9e99cda"
+                }
+            ],
+            "rotate": 360,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3301.2101215453595,
+            "ey": 1012.3842404341219,
+            "center": {
+                "x": 3281.4632798674884,
+                "y": 990.7974248481851
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 990.9372296911683,
+            "x": 3227.927480696268,
+            "width": 39.49368335574217,
+            "height": 43.173631171873836,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "1ceb7be7",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 3,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "1ceb7be7"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "1ceb7be7"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "1ceb7be7"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "1ceb7be7"
+                }
+            ],
+            "rotate": 360,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3267.42116405201,
+            "ey": 1034.1108608630423,
+            "center": {
+                "x": 3247.674322374139,
+                "y": 1012.5240452771053
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 1002.0078775964917,
+            "x": 3210.8878768676764,
+            "width": 39.49368335574217,
+            "height": 43.173631171873836,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "d2e3290",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "d2e3290"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "d2e3290"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "d2e3290"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "d2e3290"
+                }
+            ],
+            "rotate": 360,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3250.3815602234185,
+            "ey": 1045.1815087683656,
+            "center": {
+                "x": 3230.6347185455475,
+                "y": 1023.5946931824286
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 1012.9813729838098,
+            "x": 3193.5520763378495,
+            "width": 39.49368335574217,
+            "height": 43.173631171873836,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "24b025f6",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "24b025f6"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "24b025f6"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "24b025f6"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "24b025f6"
+                }
+            ],
+            "rotate": 360,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3233.0457596935917,
+            "ey": 1056.1550041556836,
+            "center": {
+                "x": 3213.2989180157206,
+                "y": 1034.5681885697468
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 980.4210620105541,
+            "x": 3244.6611488371796,
+            "width": 39.49368335574217,
+            "height": 43.173631171873836,
+            "image": "/src/static/办公楼/停车位.svg",
+            "id": "8b535bd",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "8b535bd"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "8b535bd"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "8b535bd"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "8b535bd"
+                }
+            ],
+            "rotate": 360,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3284.1548321929217,
+            "ey": 1023.5946931824279,
+            "center": {
+                "x": 3264.4079905150506,
+                "y": 1002.0078775964911
+            },
+            "flipX": false,
+            "flipY": false,
+            "locked": 0,
+            "visible": true,
+            "text": ""
+        },
+        {
+            "name": "image",
+            "y": 948.1593173121423,
+            "x": 3217.382878132335,
+            "width": 21.086835554253884,
+            "height": 21.901968876049906,
+            "image": "/src/static/办公楼/车2.svg",
+            "id": "263a8fb2",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "263a8fb2"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "263a8fb2"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "263a8fb2"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "263a8fb2"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3238.469713686589,
+            "ey": 970.0612861881922,
+            "center": {
+                "x": 3227.926295909462,
+                "y": 959.1103017501673
+            }
+        },
+        {
+            "name": "image",
+            "y": 960.0581311941153,
+            "x": 3200.7579496854705,
+            "width": 21.086835554253884,
+            "height": 21.901968876049906,
+            "image": "/src/static/办公楼/车2.svg",
+            "id": "8243da6",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "8243da6"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "8243da6"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "8243da6"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "8243da6"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3221.8447852397244,
+            "ey": 981.9601000701651,
+            "center": {
+                "x": 3211.3013674625977,
+                "y": 971.0091156321403
+            }
+        },
+        {
+            "name": "image",
+            "y": 971.0091156321413,
+            "x": 3184.192260578855,
+            "width": 21.086835554253884,
+            "height": 21.901968876049906,
+            "image": "/src/static/办公楼/车2.svg",
+            "id": "640859e2",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "640859e2"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "640859e2"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "640859e2"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "640859e2"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3205.279096133109,
+            "ey": 992.9110845081912,
+            "center": {
+                "x": 3194.735678355982,
+                "y": 981.9601000701663
+            }
+        },
+        {
+            "name": "image",
+            "y": 981.9601000701659,
+            "x": 3166.856460049027,
+            "width": 21.086835554253884,
+            "height": 21.901968876049906,
+            "image": "/src/static/办公楼/车2.svg",
+            "id": "74eb53a",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "74eb53a"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "74eb53a"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "74eb53a"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "74eb53a"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3187.943295603281,
+            "ey": 1003.8620689462158,
+            "center": {
+                "x": 3177.3998778261544,
+                "y": 992.9110845081909
+            }
+        },
+        {
+            "name": "image",
+            "y": 992.9110845081914,
+            "x": 3149.71496455521,
+            "width": 21.086835554253884,
+            "height": 21.901968876049906,
+            "image": "/src/static/办公楼/车2.svg",
+            "id": "f50b37f",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "f50b37f"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "f50b37f"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "f50b37f"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "f50b37f"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3170.801800109464,
+            "ey": 1014.8130533842412,
+            "center": {
+                "x": 3160.258382332337,
+                "y": 1003.8620689462164
+            }
+        },
+        {
+            "name": "image",
+            "y": 941.135234701396,
+            "x": 3339.4611984162057,
+            "width": 28.555731572571474,
+            "height": 24.496651978860157,
+            "image": "/src/static/办公楼/货车2.svg",
+            "id": "2b772fa8",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "2b772fa8"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "2b772fa8"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "2b772fa8"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "2b772fa8"
+                }
+            ],
+            "rotate": 1,
+            "globalAlpha": 1,
+            "tags": [],
+            "flipX": true,
+            "ex": 3368.016929988777,
+            "ey": 965.6318866802562,
+            "center": {
+                "x": 3353.7390642024916,
+                "y": 953.3835606908261
+            },
+            "autoPlay": true,
+            "keepAnimateState ":true,
+            "frames": [
+                {
+                    "duration": 5000,
+                    "x": 119.872832462118,
+                    "y": 71.76627788749
+                },
+                {
+                    "duration": 0,
+                    "x": -119.872832462118,
+                    "y": -71.76627788749
+                }
+            ],
+            "animateCycle": null
+        },
+        {
+            "name": "image",
+            "y": 949.403343457325,
+            "x": 3316.5803381624205,
+            "width": 28.555731572571474,
+            "height": 24.496651978860157,
+            "image": "/src/static/办公楼/货车2.svg",
+            "id": "3cd9042a",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "3cd9042a"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "3cd9042a"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "3cd9042a"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "3cd9042a"
+                }
+            ],
+            "rotate": 1,
+            "globalAlpha": 1,
+            "tags": [],
+            "flipX": true,
+            "ex": 3345.136069734992,
+            "ey": 973.8999954361852,
+            "center": {
+                "x": 3330.8582039487064,
+                "y": 961.6516694467551
+            }
+        },
+        {
+            "name": "image",
+            "y": 960.305448831501,
+            "x": 3300.352895903868,
+            "width": 28.55573157257146,
+            "height": 24.49665197886015,
+            "image": "/src/static/办公楼/货车2.svg",
+            "id": "4d7f6602",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "4d7f6602"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "4d7f6602"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "4d7f6602"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "4d7f6602"
+                }
+            ],
+            "rotate": 1,
+            "globalAlpha": 1,
+            "tags": [],
+            "flipX": true,
+            "ex": 3328.9086274764395,
+            "ey": 984.8021008103613,
+            "center": {
+                "x": 3314.630761690154,
+                "y": 972.5537748209312
+            }
+        },
+        {
+            "name": "image",
+            "y": 970.5577869423366,
+            "x": 3281.9158684269732,
+            "width": 28.55573157257146,
+            "height": 24.49665197886015,
+            "image": "/src/static/办公楼/货车2.svg",
+            "id": "6784722",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "6784722"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "6784722"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "6784722"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "6784722"
+                }
+            ],
+            "rotate": 1,
+            "globalAlpha": 1,
+            "tags": [],
+            "flipX": true,
+            "ex": 3310.4715999995447,
+            "ey": 995.0544389211968,
+            "center": {
+                "x": 3296.193734213259,
+                "y": 982.8061129317667
+            }
+        },
+        {
+            "name": "image",
+            "y": 982.8042474523921,
+            "x": 3265.2213561871795,
+            "width": 28.55573157257146,
+            "height": 24.49665197886015,
+            "image": "/src/static/办公楼/货车2.svg",
+            "id": "50a7d55",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "50a7d55"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "50a7d55"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "50a7d55"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "50a7d55"
+                }
+            ],
+            "rotate": 1,
+            "globalAlpha": 1,
+            "tags": [],
+            "flipX": true,
+            "ex": 3293.777087759751,
+            "ey": 1007.3008994312523,
+            "center": {
+                "x": 3279.4992219734654,
+                "y": 995.0525734418222
+            }
+        },
+        {
+            "name": "image",
+            "y": 994.3020242171862,
+            "x": 3248.4669447466404,
+            "width": 28.55573157257146,
+            "height": 24.49665197886015,
+            "image": "/src/static/办公楼/货车2.svg",
+            "id": "57a803bc",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "57a803bc"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "57a803bc"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "57a803bc"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "57a803bc"
+                }
+            ],
+            "rotate": 1,
+            "globalAlpha": 1,
+            "tags": [],
+            "flipX": true,
+            "ex": 3277.0226763192118,
+            "ey": 1018.7986761960464,
+            "center": {
+                "x": 3262.7448105329263,
+                "y": 1006.5503502066163
+            }
+        },
+        {
+            "name": "image",
+            "y": 1004.6077528171195,
+            "x": 3231.306186510984,
+            "width": 28.55573157257146,
+            "height": 24.49665197886015,
+            "image": "/src/static/办公楼/货车2.svg",
+            "id": "263c8a1a",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "263c8a1a"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "263c8a1a"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "263c8a1a"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "263c8a1a"
+                }
+            ],
+            "rotate": 1,
+            "globalAlpha": 1,
+            "tags": [],
+            "flipX": true,
+            "ex": 3259.8619180835553,
+            "ey": 1029.1044047959797,
+            "center": {
+                "x": 3245.58405229727,
+                "y": 1016.8560788065496
+            }
+        },
+        {
+            "name": "image",
+            "y": 1016.355847093657,
+            "x": 3214.4803454457374,
+            "width": 28.55573157257146,
+            "height": 24.49665197886015,
+            "image": "/src/static/办公楼/货车2.svg",
+            "id": "1c9d5287",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "1c9d5287"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "1c9d5287"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "1c9d5287"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "1c9d5287"
+                }
+            ],
+            "rotate": 1,
+            "globalAlpha": 1,
+            "tags": [],
+            "flipX": true,
+            "ex": 3243.036077018309,
+            "ey": 1040.852499072517,
+            "center": {
+                "x": 3228.7582112320233,
+                "y": 1028.604173083087
+            }
+        },
+        {
+            "name": "image",
+            "y": 1026.4015085263052,
+            "x": 3197.7111791616308,
+            "width": 28.55573157257146,
+            "height": 24.49665197886015,
+            "image": "/src/static/办公楼/货车2.svg",
+            "id": "bde37fc",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "bde37fc"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "bde37fc"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "bde37fc"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "bde37fc"
+                }
+            ],
+            "rotate": 1,
+            "globalAlpha": 1,
+            "tags": [],
+            "flipX": true,
+            "ex": 3226.266910734202,
+            "ey": 1050.8981605051654,
+            "center": {
+                "x": 3211.9890449479167,
+                "y": 1038.6498345157352
+            }
+        },
+        {
+            "name": "image",
+            "y": 844.2427197950171,
+            "x": 3255.1621975847083,
+            "width": 23.695736098723273,
+            "height": 23.695736098723273,
+            "image": "/src/static/办公楼/树2.svg",
+            "id": "86c6f19",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "86c6f19"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "86c6f19"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "86c6f19"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "86c6f19"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3278.857933683432,
+            "ey": 867.9384558937404,
+            "center": {
+                "x": 3267.01006563407,
+                "y": 856.0905878443788
+            }
+        },
+        {
+            "name": "image",
+            "y": 856.0905878443787,
+            "x": 3298.407794598724,
+            "width": 23.695736098723273,
+            "height": 23.695736098723273,
+            "image": "/src/static/办公楼/树2.svg",
+            "id": "ad8855b",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "ad8855b"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "ad8855b"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "ad8855b"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "ad8855b"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3322.1035306974472,
+            "ey": 879.7863239431019,
+            "center": {
+                "x": 3310.255662648086,
+                "y": 867.9384558937403
+            },
+            "flipX": true
+        },
+        {
+            "name": "image",
+            "y": 758.7213854972889,
+            "x": 3444.143305661396,
+            "width": 102.55514583527446,
+            "height": 72.4307565329675,
+            "image": "/src/static/办公楼/风电.svg",
+            "id": "0ee58cb",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 3,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "0ee58cb"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "0ee58cb"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "0ee58cb"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "0ee58cb"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3546.6984514966703,
+            "ey": 831.1521420302564,
+            "center": {
+                "x": 3495.4208785790333,
+                "y": 794.9367637637727
+            }
+        },
+        {
+            "name": "image",
+            "y": 802.0608868218537,
+            "x": 3442.1701090592665,
+            "width": 80.31195835940304,
+            "height": 71.66301468336901,
+            "image": "/src/static/办公楼/建筑5.svg",
+            "id": "ff75af9",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 3,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "ff75af9"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "ff75af9"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "ff75af9"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "ff75af9"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3522.4820674186694,
+            "ey": 873.7239015052228,
+            "center": {
+                "x": 3482.326088238968,
+                "y": 837.8923941635383
+            },
+            "connectedLines": []
+        },
+        {
+            "name": "image",
+            "y": 753.1365555803978,
+            "x": 3492.5744941016646,
+            "width": 102.55514583527446,
+            "height": 72.4307565329675,
+            "image": "/src/static/办公楼/风电.svg",
+            "id": "e43adf3",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 3,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "e43adf3"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "e43adf3"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "e43adf3"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "e43adf3"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3595.129639936939,
+            "ey": 825.5673121133653,
+            "center": {
+                "x": 3543.852067019302,
+                "y": 789.3519338468816
+            }
+        },
+        {
+            "name": "image",
+            "y": 850.964694204191,
+            "x": 3519.6362095132117,
+            "width": 48.43171501218049,
+            "height": 54.587867250628875,
+            "image": "/src/static/办公楼/太阳能板.svg",
+            "id": "4cf0808",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "4cf0808"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "4cf0808"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "4cf0808"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "4cf0808"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3568.0679245253923,
+            "ey": 905.5525614548199,
+            "center": {
+                "x": 3543.852067019302,
+                "y": 878.2586278295055
+            }
+        },
+        {
+            "name": "image",
+            "y": 828.7966542190646,
+            "x": 3543.852067019301,
+            "width": 48.43171501218049,
+            "height": 54.587867250628875,
+            "image": "/src/static/办公楼/太阳能板.svg",
+            "id": "c8559b0",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "c8559b0"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "c8559b0"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "c8559b0"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "c8559b0"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3592.2837820314817,
+            "ey": 883.3845214696935,
+            "center": {
+                "x": 3568.0679245253914,
+                "y": 856.0905878443791
+            }
+        },
+        {
+            "name": "image",
+            "y": 783.6587781675853,
+            "x": 3471.2044945010302,
+            "width": 102.55514583527446,
+            "height": 72.43075653296762,
+            "image": "/src/static/办公楼/风电.svg",
+            "id": "652fed4",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 3,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "652fed4"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "652fed4"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "652fed4"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "652fed4"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3573.7596403363045,
+            "ey": 856.0895347005529,
+            "center": {
+                "x": 3522.4820674186676,
+                "y": 819.8741564340692
+            }
+        },
+        {
+            "name": "image",
+            "y": 872.6694412488299,
+            "x": 3147.672392103502,
+            "width": 19.961288089564512,
+            "height": 19.212502828844862,
+            "image": "/src/static/办公楼/车.svg",
+            "id": "85e3ba6",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "85e3ba6"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "85e3ba6"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "85e3ba6"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "85e3ba6"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3167.6336801930665,
+            "ey": 891.8819440776748,
+            "center": {
+                "x": 3157.653036148284,
+                "y": 882.2756926632524
+            },
+            "autoPlay": true,
+            "keepAnimateState ":true,
+            "frames": [
+                {
+                    "duration": 9000,
+                    "x": -492.6,
+                    "y": -272.55
+                },
+                {
+                    "duration": 0,
+                    "x": 492.6,
+                    "y": 272.55
+                }
+            ]
+        },
+        {
+            "id": "c64836",
+            "name": "line",
+            "lineName": "line",
+            "x": 3384.046837982707,
+            "y": 860.3926803760814,
+            "type": 1,
+            "lineWidth": 4,
+            "autoTo": true,
+            "length": 95.52069243118773,
+            "ex": 3464.2592742504953,
+            "ey": 904.5781194793703,
+            "width": 80.21243626778823,
+            "height": 44.1854391032889,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "id": "7eb05fc0",
+                    "x": 0,
+                    "y": 0.8276652601057356,
+                    "penId": "c64836",
+                    "start": true,
+                    "lineLength": 15.57021888381533,
+                    "curvePoints": [
+                        {
+                            "x": 1745.4333946915733,
+                            "y": 256.7712099198563,
+                            "step": 0.02936951622039566
+                        },
+                        {
+                            "x": 1748.922093582515,
+                            "y": 256.10386565013414,
+                            "step": 0.05873903244079132
+                        },
+                        {
+                            "x": 1752.4621004941887,
+                            "y": 255.0265061468971,
+                            "step": 0.08810854866118698
+                        },
+                        {
+                            "x": 1756.0494192479591,
+                            "y": 253.56767036620886,
+                            "step": 0.11747806488158263
+                        },
+                        {
+                            "x": 1759.6800536651897,
+                            "y": 251.75589726413295,
+                            "step": 0.1468475811019783
+                        },
+                        {
+                            "x": 1763.3500075672434,
+                            "y": 249.6197257967329,
+                            "step": 0.17621709732237395
+                        },
+                        {
+                            "x": 1767.0552847754855,
+                            "y": 247.18769492007237,
+                            "step": 0.2055866135427696
+                        },
+                        {
+                            "x": 1770.7918891112793,
+                            "y": 244.48834359021495,
+                            "step": 0.23495612976316527
+                        },
+                        {
+                            "x": 1774.5558243959877,
+                            "y": 241.55021076322416,
+                            "step": 0.2643256459835609
+                        },
+                        {
+                            "x": 1778.3430944509748,
+                            "y": 238.4018353951636,
+                            "step": 0.29369516220395653
+                        },
+                        {
+                            "x": 1782.1497030976052,
+                            "y": 235.07175644209684,
+                            "step": 0.32306467842435216
+                        },
+                        {
+                            "x": 1785.9716541572418,
+                            "y": 231.5885128600875,
+                            "step": 0.3524341946447478
+                        },
+                        {
+                            "x": 1789.8049514512495,
+                            "y": 227.9806436051991,
+                            "step": 0.3818037108651434
+                        },
+                        {
+                            "x": 1793.6455988009907,
+                            "y": 224.2766876334953,
+                            "step": 0.41117322708553905
+                        },
+                        {
+                            "x": 1797.48960002783,
+                            "y": 220.50518390103957,
+                            "step": 0.4405427433059347
+                        },
+                        {
+                            "x": 1801.332958953131,
+                            "y": 216.69467136389565,
+                            "step": 0.4699122595263303
+                        },
+                        {
+                            "x": 1805.1716793982575,
+                            "y": 212.87368897812695,
+                            "step": 0.49928177574672594
+                        },
+                        {
+                            "x": 1809.0017651845737,
+                            "y": 209.07077569979717,
+                            "step": 0.5286512919671216
+                        },
+                        {
+                            "x": 1812.8192201334425,
+                            "y": 205.31447048496986,
+                            "step": 0.5580208081875172
+                        },
+                        {
+                            "x": 1816.6200480662285,
+                            "y": 201.6333122897086,
+                            "step": 0.5873903244079128
+                        },
+                        {
+                            "x": 1820.4002528042954,
+                            "y": 198.05584007007695,
+                            "step": 0.6167598406283085
+                        },
+                        {
+                            "x": 1824.155838169006,
+                            "y": 194.6105927821385,
+                            "step": 0.6461293568487041
+                        },
+                        {
+                            "x": 1827.8828079817254,
+                            "y": 191.32610938195688,
+                            "step": 0.6754988730690997
+                        },
+                        {
+                            "x": 1831.577166063817,
+                            "y": 188.23092882559558,
+                            "step": 0.7048683892894954
+                        },
+                        {
+                            "x": 1835.2349162366445,
+                            "y": 185.35359006911824,
+                            "step": 0.734237905509891
+                        },
+                        {
+                            "x": 1838.8520623215713,
+                            "y": 182.72263206858844,
+                            "step": 0.7636074217302866
+                        },
+                        {
+                            "x": 1842.4246081399617,
+                            "y": 180.36659378006976,
+                            "step": 0.7929769379506822
+                        },
+                        {
+                            "x": 1845.948557513179,
+                            "y": 178.31401415962577,
+                            "step": 0.8223464541710779
+                        },
+                        {
+                            "x": 1849.4199142625876,
+                            "y": 176.59343216332007,
+                            "step": 0.8517159703914735
+                        },
+                        {
+                            "x": 1852.834682209551,
+                            "y": 175.2333867472162,
+                            "step": 0.8810854866118691
+                        },
+                        {
+                            "x": 1856.1888651754327,
+                            "y": 174.26241686737777,
+                            "step": 0.9104550028322648
+                        },
+                        {
+                            "x": 1859.4784669815972,
+                            "y": 173.70906147986835,
+                            "step": 0.9398245190526604
+                        },
+                        {
+                            "x": 1862.6994914494078,
+                            "y": 173.6018595407516,
+                            "step": 0.969194035273056
+                        },
+                        {
+                            "x": 1865.847942400228,
+                            "y": 173.96935000609096,
+                            "step": 0.9985635514934517
+                        }
+                    ]
+                },
+                {
+                    "x": 0.169315059227106,
+                    "y": 1,
+                    "penId": "c64836",
+                    "id": "f26859f",
+                    "prevNextType": 1,
+                    "lineLength": 79.9504735473724
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "id": "3dd4c84",
+                    "penId": "c64836"
+                }
+            ],
+            "globalAlpha": 1,
+            "tags": [],
+            "center": {
+                "x": 3424.153056116601,
+                "y": 882.4853999277259
+            },
+            "color": "#CCFF00",
+            "lastConnected": {
+                "e6c08d1": [
+                    {
+                        "lineId": "c64836",
+                        "lineAnchor": "3dd4c84",
+                        "anchor": "3"
+                    }
+                ],
+                "ff75af9": [
+                    {
+                        "lineId": "c64836",
+                        "lineAnchor": "3dd4c84",
+                        "anchor": "3"
+                    }
+                ]
+            },
+            "rotate": 0
+        },
+        {
+            "id": "220c1b41",
+            "name": "line",
+            "lineName": "line",
+            "x": 3427.0877730324264,
+            "y": 833.4458892846128,
+            "type": 1,
+            "lineWidth": 1,
+            "autoFrom": true,
+            "ex": 3427.0877730324264,
+            "ey": 833.4458892846128,
+            "width": 0,
+            "height": 0,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "id": "12f5ec0f",
+                    "x": 0,
+                    "y": 0,
+                    "penId": "220c1b41",
+                    "connectTo": "5f249303",
+                    "anchorId": "1"
+                }
+            ],
+            "globalAlpha": 1,
+            "tags": [],
+            "center": {
+                "x": 3427.0877730324264,
+                "y": 833.4458892846128
+            },
+            "rotate": 0
+        },
+        {
+            "text": "智慧停车场",
+            "width": 30.956109639372116,
+            "height": 9.724730094916051,
+            "name": "text",
+            "id": "6a21325e",
+            "children": [],
+            "x": 3187.5665333993115,
+            "y": 999.5150861589059,
+            "lineWidth": 1,
+            "fontSize": 20,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "6a21325e"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "6a21325e"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "6a21325e"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "6a21325e"
+                }
+            ],
+            "rotate": 323.2958353128373,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#fff",
+            "hoverTextColor": "#fff",
+            "textColor": "#fff",
+            "fontStyle": "normal",
+            "fontWeight": "bold",
+            "ex": 3218.522643038684,
+            "ey": 1009.2398162538219,
+            "center": {
+                "x": 3203.0445882189974,
+                "y": 1004.377451206364
+            }
+        },
+        {
+            "id": "57038e5d",
+            "name": "line",
+            "lineName": "line",
+            "x": 3318.351617039175,
+            "y": 824.6194826694166,
+            "type": 1,
+            "lineWidth": 6,
+            "length": 138.12684106474788,
+            "ex": 3437.733010529471,
+            "ey": 877.3107983855564,
+            "width": 119.38139349029598,
+            "height": 52.6913157161398,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "id": "5b4266d8",
+                    "x": 0,
+                    "y": 0.3185737080374675,
+                    "penId": "57038e5d",
+                    "start": true,
+                    "lineLength": 33.35965610254744
+                },
+                {
+                    "x": 0.24148412269229966,
+                    "y": 0,
+                    "penId": "57038e5d",
+                    "id": "69b19156",
+                    "prevNextType": 1,
+                    "lineLength": 104.76718496220045
+                },
+                {
+                    "x": 1,
+                    "y": 1,
+                    "penId": "57038e5d",
+                    "id": "61caf3a3"
+                }
+            ],
+            "globalAlpha": 1,
+            "tags": [],
+            "color": "#CCFF00",
+            "center": {
+                "x": 3378.042313784323,
+                "y": 850.9651405274865
+            },
+            "rotate": 0
+        },
+        {
+            "id": "135fed4",
+            "name": "combine",
+            "x": 3055.702131583527,
+            "y": 712.4744173534104,
+            "ex": 3140.5115406544674,
+            "ey": 782.7986229472015,
+            "width": 84.80940907094065,
+            "height": 70.32420559379104,
+            "center": {
+                "x": 3098.1068361189973,
+                "y": 747.636520150306
+            },
+            "children": [
+                "62fc0718",
+                "b964a1a",
+                "7b914af",
+                "bcd75f1",
+                "199e4da",
+                "34a6d1fd",
+                "775e13ac",
+                "58acc3ea",
+                "d3aa62e",
+                "7eda1097",
+                "69c9821b",
+                "99783dd"
+            ],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "135fed4"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "135fed4"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "135fed4"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "135fed4"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": []
+        },
+        {
+            "name": "gif",
+            "y": 0,
+            "x": 0.18775121173778764,
+            "width": 0.8122487882622126,
+            "height": 0.745209813221133,
+            "image": "/src/static/文本框/科技 (6).gif",
+            "id": "62fc0718",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "62fc0718"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "62fc0718"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "62fc0718"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "62fc0718"
+                },
+                {
+                    "id": "601f755",
+                    "penId": "62fc0718",
+                    "x": 0.10110120104250875,
+                    "y": 0.7366024644516741
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 1.0000000000000002,
+            "ey": 0.745209813221133,
+            "center": {
+                "x": 1193.9300811500998,
+                "y": 538.0820927804715
+            },
+            "zIndex": 1,
+            "connectedLines": [
+                {
+                    "lineId": "7eda1097",
+                    "lineAnchor": "b50eb3d",
+                    "anchor": "3"
+                },
+                {
+                    "lineId": "7eda1097",
+                    "lineAnchor": "3a9719c2",
+                    "anchor": "3"
+                },
+                {
+                    "lineId": "69c9821b",
+                    "lineAnchor": "94d59b8",
+                    "anchor": "601f755"
+                }
+            ],
+            "parentId": "135fed4",
+            "locked": 2
+        },
+        {
+            "name": "gif",
+            "y": 888.5854199413312,
+            "x": 3376.5023642523047,
+            "width": 42.25129425566829,
+            "height": 59.69415459778406,
+            "image": "/src/static/装饰/科技 (42).gif",
+            "id": "1b8c3f98",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "1b8c3f98"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "1b8c3f98"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "1b8c3f98"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "1b8c3f98"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3418.753658507973,
+            "ey": 948.2795745391153,
+            "center": {
+                "x": 3397.628011380139,
+                "y": 918.4324972402233
+            }
+        },
+        {
+            "name": "gif",
+            "y": 0.8315224694291161,
+            "x": 0,
+            "width": 0.1397008682642862,
+            "height": 0.16847753057088383,
+            "image": "/src/static/装饰/科技 (41).gif",
+            "id": "b964a1a",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "b964a1a"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "b964a1a"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "b964a1a"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "b964a1a"
+                },
+                {
+                    "id": "058b288",
+                    "penId": "b964a1a",
+                    "x": 0.4970525537135092,
+                    "y": 0.4775095994790188
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 0.1397008682642862,
+            "ey": 1,
+            "center": {
+                "x": 946.2862591419715,
+                "y": 774.0454938450675
+            },
+            "connectedLines": [
+                {
+                    "lineId": "69c9821b",
+                    "lineAnchor": "4cac865",
+                    "anchor": "058b288"
+                }
+            ],
+            "parentId": "135fed4",
+            "locked": 2
+        },
+        {
+            "text": "提示",
+            "width": 0.17199970900698916,
+            "height": 0.05125086479966285,
+            "name": "text",
+            "id": "7b914af",
+            "children": [],
+            "x": 0.5078897214522264,
+            "y": 0.2162914537469004,
+            "lineWidth": 1,
+            "fontSize": 13,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "7b914af"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "7b914af"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "7b914af"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "7b914af"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#fff",
+            "hoverTextColor": "#fff",
+            "textBackground": "",
+            "textColor": "#fff",
+            "ex": 0.6798894304592156,
+            "ey": 0.26754231854656324,
+            "center": {
+                "x": 1193.9373496136618,
+                "y": 481.70062093294575
+            },
+            "fontWeight": "bold",
+            "parentId": "135fed4",
+            "locked": 2
+        },
+        {
+            "text": "室内温度：26℃",
+            "width": 0.2505115969715179,
+            "height": 0.0655377593920738,
+            "name": "text",
+            "id": "bcd75f1",
+            "children": [],
+            "x": 0.31082767667862354,
+            "y": 0.3138062484413278,
+            "lineWidth": 1,
+            "fontSize": 11,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "bcd75f1"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "bcd75f1"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "bcd75f1"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "bcd75f1"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#2adbe1",
+            "hoverTextColor": "#2adbe1",
+            "textBackground": "",
+            "textColor": "#2adbe1",
+            "ex": 0.5613392736501415,
+            "ey": 0.3793440078334016,
+            "center": {
+                "x": 1111.8327852215443,
+                "y": 526.8523165777607
+            },
+            "fontWeight": "normal",
+            "textAlign": "left",
+            "connectedLines": [
+                {
+                    "lineId": "99783dd",
+                    "lineAnchor": "b48c00e",
+                    "anchor": "3"
+                },
+                {
+                    "lineId": "99783dd",
+                    "lineAnchor": "39cedad7",
+                    "anchor": "3"
+                }
+            ],
+            "parentId": "135fed4",
+            "locked": 2
+        },
+        {
+            "text": "   PM2.5：0.3",
+            "width": 0.22855062048037228,
+            "height": 0.06553775939207382,
+            "name": "text",
+            "id": "199e4da",
+            "children": [],
+            "x": 0.31082767667862393,
+            "y": 0.37934400783340116,
+            "lineWidth": 1,
+            "fontSize": 11,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "199e4da"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "199e4da"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "199e4da"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "199e4da"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#2adbe1",
+            "hoverTextColor": "#2adbe1",
+            "textBackground": "",
+            "textColor": "#2adbe1",
+            "ex": 0.5393782971589962,
+            "ey": 0.444881767225475,
+            "center": {
+                "x": 1106.119772862107,
+                "y": 555.1266398324823
+            },
+            "fontWeight": "normal",
+            "textAlign": "left",
+            "parentId": "135fed4",
+            "locked": 2
+        },
+        {
+            "text": "   空气湿度：26℃",
+            "width": 0.2657110514386723,
+            "height": 0.0655377593920738,
+            "name": "text",
+            "id": "34a6d1fd",
+            "children": [],
+            "x": 0.2857653409120107,
+            "y": 0.44080461098566,
+            "lineWidth": 1,
+            "fontSize": 11,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "34a6d1fd"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "34a6d1fd"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "34a6d1fd"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "34a6d1fd"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#2adbe1",
+            "hoverTextColor": "#2adbe1",
+            "textBackground": "",
+            "textColor": "#2adbe1",
+            "ex": 0.551476392350683,
+            "ey": 0.5063423703777338,
+            "center": {
+                "x": 1102.7472057695131,
+                "y": 581.6419949052905
+            },
+            "fontWeight": "normal",
+            "textAlign": "left",
+            "parentId": "135fed4",
+            "locked": 2,
+            "connectedLines": []
+        },
+        {
+            "text": "大门门禁：开启",
+            "width": 0.2505115969715179,
+            "height": 0.0655377593920738,
+            "name": "text",
+            "id": "775e13ac",
+            "children": [],
+            "x": 0.6243723054109881,
+            "y": 0.3138062484413278,
+            "lineWidth": 1,
+            "fontSize": 11,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "775e13ac"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "775e13ac"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "775e13ac"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "775e13ac"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#2adbe1",
+            "hoverTextColor": "#2adbe1",
+            "textBackground": "",
+            "textColor": "#2adbe1",
+            "ex": 0.874883902382506,
+            "ey": 0.3793440078334016,
+            "center": {
+                "x": 1274.9661813986581,
+                "y": 526.8523165777607
+            },
+            "fontWeight": "normal",
+            "textAlign": "left",
+            "parentId": "135fed4",
+            "locked": 2
+        },
+        {
+            "text": "剩余车位：303",
+            "width": 0.2606538800075052,
+            "height": 0.06644753805715656,
+            "name": "text",
+            "id": "58acc3ea",
+            "children": [],
+            "x": 0.6226120744708584,
+            "y": 0.37934400783340116,
+            "lineWidth": 1,
+            "fontSize": 11,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "58acc3ea"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "58acc3ea"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "58acc3ea"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "58acc3ea"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#2adbe1",
+            "hoverTextColor": "#2adbe1",
+            "textBackground": "",
+            "textColor": "#2adbe1",
+            "ex": 0.8832659544783636,
+            "ey": 0.4457915458905577,
+            "center": {
+                "x": 1276.6888072627635,
+                "y": 555.322888348646
+            },
+            "fontWeight": "normal",
+            "textAlign": "left",
+            "parentId": "135fed4",
+            "locked": 2
+        },
+        {
+            "text": "访问人数：989",
+            "width": 0.2606538800075052,
+            "height": 0.06644753805715656,
+            "name": "text",
+            "id": "d3aa62e",
+            "children": [],
+            "x": 0.6243723054109881,
+            "y": 0.43743506037423247,
+            "lineWidth": 1,
+            "fontSize": 11,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "d3aa62e"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "d3aa62e"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "d3aa62e"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "d3aa62e"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#2adbe1",
+            "hoverTextColor": "#2adbe1",
+            "textBackground": "",
+            "textColor": "#2adbe1",
+            "ex": 0.8850261854184933,
+            "ey": 0.503882598431389,
+            "center": {
+                "x": 1277.604633671528,
+                "y": 580.3845507091252
+            },
+            "fontWeight": "normal",
+            "textAlign": "left",
+            "parentId": "135fed4",
+            "locked": 2
+        },
+        {
+            "id": "7eda1097",
+            "name": "line",
+            "lineName": "line",
+            "x": 0.18775121173778764,
+            "y": 0.37260490661056617,
+            "type": 1,
+            "lineWidth": 1,
+            "autoTo": true,
+            "length": 0,
+            "ex": 0.18775121173778764,
+            "ey": 0.37260490661056617,
+            "width": 0,
+            "height": 0,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "id": "b50eb3d",
+                    "x": 0,
+                    "y": 0,
+                    "penId": "7eda1097",
+                    "connectTo": "62fc0718",
+                    "anchorId": "3",
+                    "start": true,
+                    "lineLength": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "id": "3a9719c2",
+                    "penId": "7eda1097",
+                    "connectTo": "62fc0718",
+                    "anchorId": "3"
+                }
+            ],
+            "globalAlpha": 1,
+            "tags": [],
+            "center": {
+                "x": 982.6285769500972,
+                "y": 538.0820927804714
+            },
+            "parentId": "135fed4",
+            "rotate": 0,
+            "locked": 2
+        },
+        {
+            "id": "69c9821b",
+            "name": "line",
+            "lineName": "line",
+            "x": 0.06945251649159047,
+            "y": 0.5489334901060525,
+            "type": 1,
+            "lineWidth": 1,
+            "length": 31.51657980023778,
+            "ex": 0.2698673821035354,
+            "ey": 0.9119688729801929,
+            "width": 0.20041486561194494,
+            "height": 0.36303538287414033,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "id": "4cac865",
+                    "x": 0,
+                    "y": 1,
+                    "penId": "69c9821b",
+                    "start": true,
+                    "lineLength": 18.882479547504655,
+                    "connectTo": "b964a1a",
+                    "anchorId": "058b288"
+                },
+                {
+                    "x": 0.43079809287330956,
+                    "y": 0.31826009553766743,
+                    "penId": "69c9821b",
+                    "id": "16d17cdd",
+                    "prevNextType": 1,
+                    "lineLength": 12.634100252733122
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "id": "94d59b8",
+                    "penId": "69c9821b",
+                    "connectTo": "62fc0718",
+                    "anchorId": "601f755"
+                }
+            ],
+            "globalAlpha": 1,
+            "tags": [],
+            "center": {
+                "x": 985.7123154239846,
+                "y": 693.2823098473878
+            },
+            "parentId": "135fed4",
+            "rotate": 0,
+            "color": "#2adbe1",
+            "locked": 2
+        },
+        {
+            "id": "99783dd",
+            "name": "line",
+            "lineName": "line",
+            "x": 0.31082767667862354,
+            "y": 0.3465582803843073,
+            "type": 1,
+            "lineWidth": 1,
+            "length": 0,
+            "ex": 0.31082767667862354,
+            "ey": 0.3465582803843073,
+            "width": 0,
+            "height": 0,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "id": "b48c00e",
+                    "x": 0,
+                    "y": 0,
+                    "penId": "99783dd",
+                    "connectTo": "bcd75f1",
+                    "anchorId": "3",
+                    "start": true,
+                    "lineLength": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "id": "39cedad7",
+                    "penId": "99783dd",
+                    "connectTo": "bcd75f1",
+                    "anchorId": "3"
+                }
+            ],
+            "globalAlpha": 1,
+            "tags": [],
+            "center": {
+                "x": 1046.663740928014,
+                "y": 526.8450481141989
+            },
+            "parentId": "135fed4",
+            "rotate": 0,
+            "locked": 2
+        },
+        {
+            "name": "gif",
+            "y": 874.5926384664643,
+            "x": 3444.4404503445753,
+            "width": 41.12024108319254,
+            "height": 19.979220966985924,
+            "image": "/src/static/文本框/科技 (7).gif",
+            "id": "51925409",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "51925409"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "51925409"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "51925409"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "51925409"
+                }
+            ],
+            "rotate": -36,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3485.560691427768,
+            "ey": 894.5718594334503,
+            "center": {
+                "x": 3465.0005708861718,
+                "y": 884.5822489499573
+            },
+            "zIndex": 0
+        },
+        {
+            "text": "风电光伏",
+            "width": 30.956109639372144,
+            "height": 9.724730094916051,
+            "name": "text",
+            "id": "1c7515fd",
+            "children": [],
+            "x": 3449.8126090890883,
+            "y": 878.9517768306015,
+            "lineWidth": 1,
+            "fontSize": 20,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "1c7515fd"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "1c7515fd"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "1c7515fd"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "1c7515fd"
+                }
+            ],
+            "rotate": 323.2958353128373,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#fff",
+            "hoverTextColor": "#fff",
+            "textColor": "#fff",
+            "fontStyle": "normal",
+            "fontWeight": "bold",
+            "ex": 3480.7687187284605,
+            "ey": 888.6765069255175,
+            "center": {
+                "x": 3465.290663908774,
+                "y": 883.8141418780596
+            }
+        },
+        {
+            "id": "04757a1",
+            "name": "combine",
+            "x": 3296.193711609885,
+            "y": 706.9560794957865,
+            "ex": 3381.0031206808258,
+            "ey": 777.2802850895775,
+            "width": 84.80940907094065,
+            "height": 70.32420559379104,
+            "center": {
+                "x": 3338.5984161453557,
+                "y": 742.118182292682
+            },
+            "children": [
+                "57cdb60d",
+                "265bcb9d",
+                "607b3c24",
+                "61cf660",
+                "55549f7a",
+                "86c8daa",
+                "10b15a9c",
+                "1bfafa07",
+                "0774256",
+                "27513ac",
+                "1c90a48f",
+                "6b8130b"
+            ],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "04757a1"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "04757a1"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "04757a1"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "04757a1"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": []
+        },
+        {
+            "name": "gif",
+            "y": 0,
+            "x": 0.18775121173778764,
+            "width": 0.8122487882622126,
+            "height": 0.745209813221133,
+            "image": "/src/static/文本框/科技 (6).gif",
+            "id": "57cdb60d",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "57cdb60d"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "57cdb60d"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "57cdb60d"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "57cdb60d"
+                },
+                {
+                    "id": "601f755",
+                    "penId": "57cdb60d",
+                    "x": 0.10110120104250875,
+                    "y": 0.7366024644516741
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 1.0000000000000002,
+            "ey": 0.745209813221133,
+            "center": {
+                "x": 1193.9300811500998,
+                "y": 538.0820927804715
+            },
+            "zIndex": 6,
+            "connectedLines": [
+                {
+                    "lineId": "27513ac",
+                    "lineAnchor": "c69041c",
+                    "anchor": "3"
+                },
+                {
+                    "lineId": "27513ac",
+                    "lineAnchor": "c69041c",
+                    "anchor": "3"
+                },
+                {
+                    "lineId": "1c90a48f",
+                    "lineAnchor": "57f932dd",
+                    "anchor": "601f755"
+                }
+            ],
+            "parentId": "04757a1",
+            "locked": 2
+        },
+        {
+            "name": "gif",
+            "y": 0.8315224694291161,
+            "x": 0,
+            "width": 0.1397008682642862,
+            "height": 0.16847753057088383,
+            "image": "/src/static/装饰/科技 (41).gif",
+            "id": "265bcb9d",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "265bcb9d"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "265bcb9d"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "265bcb9d"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "265bcb9d"
+                },
+                {
+                    "id": "058b288",
+                    "penId": "265bcb9d",
+                    "x": 0.4970525537135092,
+                    "y": 0.4775095994790188
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 0.1397008682642862,
+            "ey": 1,
+            "center": {
+                "x": 946.2862591419715,
+                "y": 774.0454938450675
+            },
+            "connectedLines": [
+                {
+                    "lineId": "1c90a48f",
+                    "lineAnchor": "e49d0c",
+                    "anchor": "058b288"
+                }
+            ],
+            "parentId": "04757a1",
+            "locked": 2,
+            "zIndex": 7
+        },
+        {
+            "text": "提示",
+            "width": 0.17199970900698916,
+            "height": 0.05125086479966285,
+            "name": "text",
+            "id": "607b3c24",
+            "children": [],
+            "x": 0.5078897214522264,
+            "y": 0.2162914537469004,
+            "lineWidth": 1,
+            "fontSize": 13,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "607b3c24"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "607b3c24"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "607b3c24"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "607b3c24"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#fff",
+            "hoverTextColor": "#fff",
+            "textBackground": "",
+            "textColor": "#fff",
+            "ex": 0.6798894304592156,
+            "ey": 0.26754231854656324,
+            "center": {
+                "x": 1193.9373496136618,
+                "y": 481.70062093294575
+            },
+            "fontWeight": "bold",
+            "parentId": "04757a1",
+            "locked": 2
+        },
+        {
+            "text": "室内温度：26℃",
+            "width": 0.2505115969715179,
+            "height": 0.0655377593920738,
+            "name": "text",
+            "id": "61cf660",
+            "children": [],
+            "x": 0.31082767667862354,
+            "y": 0.3138062484413278,
+            "lineWidth": 1,
+            "fontSize": 11,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "61cf660"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "61cf660"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "61cf660"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "61cf660"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#2adbe1",
+            "hoverTextColor": "#2adbe1",
+            "textBackground": "",
+            "textColor": "#2adbe1",
+            "ex": 0.5613392736501415,
+            "ey": 0.3793440078334016,
+            "center": {
+                "x": 1111.8327852215443,
+                "y": 526.8523165777607
+            },
+            "fontWeight": "normal",
+            "textAlign": "left",
+            "connectedLines": [
+                {
+                    "lineId": "6b8130b",
+                    "lineAnchor": "2b5d3b2c",
+                    "anchor": "3"
+                },
+                {
+                    "lineId": "6b8130b",
+                    "lineAnchor": "2b5d3b2c",
+                    "anchor": "3"
+                }
+            ],
+            "parentId": "04757a1",
+            "locked": 2
+        },
+        {
+            "text": "   PM2.5：0.3",
+            "width": 0.22855062048037228,
+            "height": 0.06553775939207382,
+            "name": "text",
+            "id": "55549f7a",
+            "children": [],
+            "x": 0.31082767667862393,
+            "y": 0.37934400783340116,
+            "lineWidth": 1,
+            "fontSize": 11,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "55549f7a"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "55549f7a"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "55549f7a"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "55549f7a"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#2adbe1",
+            "hoverTextColor": "#2adbe1",
+            "textBackground": "",
+            "textColor": "#2adbe1",
+            "ex": 0.5393782971589962,
+            "ey": 0.444881767225475,
+            "center": {
+                "x": 1106.119772862107,
+                "y": 555.1266398324823
+            },
+            "fontWeight": "normal",
+            "textAlign": "left",
+            "parentId": "04757a1",
+            "locked": 2
+        },
+        {
+            "text": "   空气湿度：26℃",
+            "width": 0.2657110514386723,
+            "height": 0.0655377593920738,
+            "name": "text",
+            "id": "86c8daa",
+            "children": [],
+            "x": 0.2857653409120107,
+            "y": 0.44080461098566,
+            "lineWidth": 1,
+            "fontSize": 11,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "86c8daa"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "86c8daa"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "86c8daa"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "86c8daa"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#2adbe1",
+            "hoverTextColor": "#2adbe1",
+            "textBackground": "",
+            "textColor": "#2adbe1",
+            "ex": 0.551476392350683,
+            "ey": 0.5063423703777338,
+            "center": {
+                "x": 1102.7472057695131,
+                "y": 581.6419949052905
+            },
+            "fontWeight": "normal",
+            "textAlign": "left",
+            "parentId": "04757a1",
+            "locked": 2,
+            "connectedLines": []
+        },
+        {
+            "text": "大门门禁：开启",
+            "width": 0.2505115969715179,
+            "height": 0.0655377593920738,
+            "name": "text",
+            "id": "10b15a9c",
+            "children": [],
+            "x": 0.6243723054109881,
+            "y": 0.3138062484413278,
+            "lineWidth": 1,
+            "fontSize": 11,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "10b15a9c"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "10b15a9c"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "10b15a9c"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "10b15a9c"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#2adbe1",
+            "hoverTextColor": "#2adbe1",
+            "textBackground": "",
+            "textColor": "#2adbe1",
+            "ex": 0.874883902382506,
+            "ey": 0.3793440078334016,
+            "center": {
+                "x": 1274.9661813986581,
+                "y": 526.8523165777607
+            },
+            "fontWeight": "normal",
+            "textAlign": "left",
+            "parentId": "04757a1",
+            "locked": 2
+        },
+        {
+            "text": "剩余车位：303",
+            "width": 0.2606538800075052,
+            "height": 0.06644753805715656,
+            "name": "text",
+            "id": "1bfafa07",
+            "children": [],
+            "x": 0.6226120744708584,
+            "y": 0.37934400783340116,
+            "lineWidth": 1,
+            "fontSize": 11,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "1bfafa07"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "1bfafa07"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "1bfafa07"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "1bfafa07"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#2adbe1",
+            "hoverTextColor": "#2adbe1",
+            "textBackground": "",
+            "textColor": "#2adbe1",
+            "ex": 0.8832659544783636,
+            "ey": 0.4457915458905577,
+            "center": {
+                "x": 1276.6888072627635,
+                "y": 555.322888348646
+            },
+            "fontWeight": "normal",
+            "textAlign": "left",
+            "parentId": "04757a1",
+            "locked": 2
+        },
+        {
+            "text": "访问人数：989",
+            "width": 0.2606538800075052,
+            "height": 0.06644753805715656,
+            "name": "text",
+            "id": "0774256",
+            "children": [],
+            "x": 0.6243723054109881,
+            "y": 0.43743506037423247,
+            "lineWidth": 1,
+            "fontSize": 11,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "0774256"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "0774256"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "0774256"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "0774256"
+                }
+            ],
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "activeTextColor": "#2adbe1",
+            "hoverTextColor": "#2adbe1",
+            "textBackground": "",
+            "textColor": "#2adbe1",
+            "ex": 0.8850261854184933,
+            "ey": 0.503882598431389,
+            "center": {
+                "x": 1277.604633671528,
+                "y": 580.3845507091252
+            },
+            "fontWeight": "normal",
+            "textAlign": "left",
+            "parentId": "04757a1",
+            "locked": 2
+        },
+        {
+            "id": "27513ac",
+            "name": "line",
+            "lineName": "line",
+            "x": 0.18775121173778764,
+            "y": 0.37260490661056617,
+            "type": 1,
+            "lineWidth": 1,
+            "autoTo": true,
+            "length": 0,
+            "ex": 0.18775121173778764,
+            "ey": 0.37260490661056617,
+            "width": 0,
+            "height": 0,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "id": "c69041c",
+                    "x": 0,
+                    "y": 0,
+                    "penId": "27513ac",
+                    "connectTo": "57cdb60d",
+                    "anchorId": "3",
+                    "start": true,
+                    "lineLength": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "id": "7853693",
+                    "penId": "27513ac",
+                    "connectTo": "57cdb60d",
+                    "anchorId": "3"
+                }
+            ],
+            "globalAlpha": 1,
+            "tags": [],
+            "center": {
+                "x": 982.6285769500972,
+                "y": 538.0820927804714
+            },
+            "parentId": "04757a1",
+            "rotate": 0,
+            "locked": 2,
+            "children": []
+        },
+        {
+            "id": "1c90a48f",
+            "name": "line",
+            "lineName": "line",
+            "x": 0.06945251649159047,
+            "y": 0.5489334901060525,
+            "type": 1,
+            "lineWidth": 1,
+            "length": 31.516579800237807,
+            "ex": 0.2698673821035354,
+            "ey": 0.9119688729801929,
+            "width": 0.20041486561194494,
+            "height": 0.36303538287414033,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "id": "e49d0c",
+                    "x": 0,
+                    "y": 1,
+                    "penId": "1c90a48f",
+                    "start": true,
+                    "lineLength": 18.882479547504758,
+                    "connectTo": "265bcb9d",
+                    "anchorId": "058b288"
+                },
+                {
+                    "x": 0.43079809287330956,
+                    "y": 0.31826009553766293,
+                    "penId": "1c90a48f",
+                    "id": "b30fdb5",
+                    "prevNextType": 1,
+                    "lineLength": 12.634100252733049
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "id": "57f932dd",
+                    "penId": "1c90a48f",
+                    "connectTo": "57cdb60d",
+                    "anchorId": "601f755"
+                }
+            ],
+            "globalAlpha": 1,
+            "tags": [],
+            "center": {
+                "x": 985.7123154239846,
+                "y": 693.2823098473878
+            },
+            "parentId": "04757a1",
+            "rotate": 0,
+            "color": "#2adbe1",
+            "locked": 2,
+            "children": []
+        },
+        {
+            "id": "6b8130b",
+            "name": "line",
+            "lineName": "line",
+            "x": 0.31082767667862354,
+            "y": 0.3465582803843073,
+            "type": 1,
+            "lineWidth": 1,
+            "length": 0,
+            "ex": 0.31082767667862354,
+            "ey": 0.3465582803843073,
+            "width": 0,
+            "height": 0,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "anchors": [
+                {
+                    "id": "2b5d3b2c",
+                    "x": 0,
+                    "y": 0,
+                    "penId": "6b8130b",
+                    "connectTo": "61cf660",
+                    "anchorId": "3",
+                    "start": true,
+                    "lineLength": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "id": "2cb047de",
+                    "penId": "6b8130b",
+                    "connectTo": "61cf660",
+                    "anchorId": "3"
+                }
+            ],
+            "globalAlpha": 1,
+            "tags": [],
+            "center": {
+                "x": 1046.663740928014,
+                "y": 526.8450481141989
+            },
+            "parentId": "04757a1",
+            "rotate": 0,
+            "locked": 2,
+            "children": []
+        },
+        {
+            "name": "image",
+            "y": 726.6590840618749,
+            "x": 3427.0349841981174,
+            "width": 17.108321463278237,
+            "height": 15.459098230807086,
+            "image": "/src/static/办公楼/飞机.svg",
+            "id": "46d3a520",
+            "children": [],
+            "lineWidth": 1,
+            "fontSize": 12,
+            "lineHeight": 1.5,
+            "canvasLayer": 4,
+            "anchors": [
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "id": "0",
+                    "penId": "46d3a520"
+                },
+                {
+                    "x": 1,
+                    "y": 0.5,
+                    "id": "1",
+                    "penId": "46d3a520"
+                },
+                {
+                    "x": 0.5,
+                    "y": 1,
+                    "id": "2",
+                    "penId": "46d3a520"
+                },
+                {
+                    "x": 0,
+                    "y": 0.5,
+                    "id": "3",
+                    "penId": "46d3a520"
+                }
+            ],  
+            "keepAnimateState ":true,
+            "autoPlay": true,
+            "frames": [
+                {
+                    "duration": 10000,
+                    "x": -1500.872832462118,
+                    "y": 900.76627788749
+                },
+                {
+                    "duration": 0,
+                    "x": 1500.872832462118,
+                    "y": -900.76627788749
+                }
+            ],
+            "animateCycle": null,
+            "rotate": 0,
+            "globalAlpha": 1,
+            "tags": [],
+            "ex": 3444.1433056613955,
+            "ey": 742.1181822926819,
+            "center": {
+                "x": 3435.5891449297565,
+                "y": 734.3886331772784
+            }
+        }
+    ],
+    "origin": {
+        "x": 2972.1296399369385,
+        "y": 703.1951670971505
+    },
+    "center": {
+        "x": 3182,
+        "y": 860
+    },
+    "paths": {},
+    "template": "86475ed",
+    "name": "tPBt7D8A2",
+    "background": "#0D2A4300",
+    "color": "#266fe8",
+    "mqtt": "ws://10.128.9.253:8085",
+    "mqttTopics": "$ICS/MonitorConfigure/Wind",
+    "mqttOptions": {
+        "username": "mica-mqtt",
+        "password": "Admin123*#",
+        "customClientId": false
+    },
+    "socketCbJs": "\n  const { data }= JSON.parse(e);\n  const arr=Object.values(data).map(item=>{\n      item.dataId=item.itemCode\n      item.value=item.value.toFixed(2)\n      return item\n  });\n  window.dataSource=arr;\n  return arr; ",
+    "version": "1.0.1",
+    "dataPoints": [],
+    "locked": 0
+}

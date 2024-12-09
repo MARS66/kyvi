@@ -1,0 +1,28 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "./dist",
+    "sourceMap": true,
+    "declaration": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "es5",
+    "allowJs": true,
+    "lib": [
+      "es2018",
+      "es2020.string",
+      "dom",
+      "es2021.string"
+    ],
+    "downlevelIteration": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports":true,
+    "types": ["node","offscreencanvas"],
+    "paths": {
+      "@meta2d/*": ["packages/*"],
+    }
+  },
+  "include": ["packages/**/*"],
+  "exclude": ["node_modules", "dist","meta2d.js", "**/*.spec.ts"]
+}
