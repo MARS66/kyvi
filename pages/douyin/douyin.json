@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "t-notice-bar": "tdesign-miniprogram/notice-bar/notice-bar",
+    "t-textarea": "tdesign-miniprogram/textarea/textarea",
+    "t-swiper": "tdesign-miniprogram/swiper/swiper"
+  },
+  "navigationBarTitleText": "免费去水印"
+}

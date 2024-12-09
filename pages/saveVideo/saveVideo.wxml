@@ -1,0 +1,68 @@
+<view class="save-video">
+  <view class="ad-custom ">
+      <ad-custom unit-id="adunit-b7e211d865d802a2"></ad-custom>
+      <t-notice-bar
+      visible="{{true}}"
+      interval="{{3000}}"
+      marquee
+      content="所以视频内容归平台及其作者所有，本应用不存储任何数据！"
+      prefixIcon="sound"
+      theme="warning"
+    ></t-notice-bar>
+  </view>
+  <view class="save-card">
+    <video 
+    class="mt" 
+    src="{{resolvingData.url}}" 
+    show-center-play-btn='{{false}}' 
+    show-play-btn="{{true}}" 
+    controls
+    picture-in-picture-mode="{{['push', 'pop']}}"
+    >
+    </video>
+    <view class="video_btn">
+      <view 
+        class="custom-btn btn-13" 
+        bind:tap="saveVideo">
+        保存视频
+      </view>
+      <view
+        class="custom-btn btn-16"
+        bind:tap="copyText"
+        data-text="{{resolvingData.url}}">
+        复制视频地址
+        </view>
+    </view>
+  </view>
+  <view class="save-card">
+    <view class="text">{{resolvingData.title}}</view>
+    <view class="video_btn">
+      <view
+        class="custom-btn btn-13"
+        bind:tap="copyText"
+        data-text="{{resolvingData.title}}">
+        复制文案
+        </view>
+    </view>
+  </view>
+  <view class="save-card">
+    <image 
+    class="mt" 
+    src="{{resolvingData.cover}}" 
+    >
+    </image>
+    <view class="video_btn">
+      <view 
+        class="custom-btn btn-15" 
+        bind:tap="saveCover">
+        保存封面
+      </view>
+      <view
+        class="custom-btn btn-16"
+        bind:tap="copyText"
+        data-text="{{resolvingData.cover}}">
+        复制封面地址
+        </view>
+    </view>
+  </view>
+</view>

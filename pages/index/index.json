@@ -1,0 +1,10 @@
+{
+  "styleIsolation": "shared",
+  "usingComponents": {
+    "calendar": "@lspriv/wx-calendar",
+    "t-icon": "tdesign-miniprogram/icon/icon",
+    "t-date-time-picker": "tdesign-miniprogram/date-time-picker/date-time-picker"
+  },
+  "navigationBarTitleText": "彝文传承",
+  "disableScroll":true
+}

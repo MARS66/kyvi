@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "t-icon": "tdesign-miniprogram/icon/icon",
+    "t-grid": "tdesign-miniprogram/grid/grid",
+    "t-message": "tdesign-miniprogram/message/message",
+    "kv-grid": "/components/my-grid/my-grid",
+    "t-grid-item": "tdesign-miniprogram/grid-item/grid-item"
+  },
+  "navigationBarTitleText": "更多应用"
+}

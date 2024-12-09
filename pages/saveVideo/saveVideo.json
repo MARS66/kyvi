@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "t-notice-bar": "tdesign-miniprogram/notice-bar/notice-bar"
+  },
+  "navigationBarTitleText": "解析下载"
+}

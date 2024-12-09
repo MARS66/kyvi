@@ -1,0 +1,21 @@
+<!--components/my-grid/my-grid.wxml-->
+
+<view class="kv-grid" wx:for="{{data}}" wx:key="index">
+    <view class="grid_title">
+      <text class="iconfont {{ item.icon }}"></text>
+      <view class="title_text">{{item.label}}</view>
+    </view>
+    <view class="kv-container">
+      <view 
+      class="kv-item" 
+      wx:for="{{item.list}}"
+      bind:tap="go" 
+      data-path="{{i.path}}" 
+      wx:for-item="i" 
+      wx:key="i">
+        <image wx:if="{{i.image}}" class="icon"  src="{{i.image}}" mode="aspectFill"/>
+        <text wx:else class="iconfont {{i.icon}}"></text>
+        <view class="item-name">{{i.name}}</view>
+      </view>
+    </view>
+</view>

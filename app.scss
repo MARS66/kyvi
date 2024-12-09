@@ -1,0 +1,100 @@
+
+@import "./icons/icon.scss";
+page{
+  --bgColor:#f5f6f7;
+  --bgColor2:#409EFF;
+  --gray-100: hsla(210, 38%, 95%, 1);
+  --muted: hsla(214, 25%, 65%, 1);
+  --white: #ffffff;
+  --black: #4a5568;
+  --color: #4a5568;
+  --color-active:#409EFF;
+  --dark: #DFE4EA;
+  --shadow-tl: -8rpx -4rpx 8rpx 0;
+  --shadow-br: 8rpx 4rpx 12rpx 0;
+  --shadow: var(--shadow-tl) var(--white), var(--shadow-br) var(--dark);
+  // --shadow:  24px 24px 47px #d0d1d2,
+  //              -24px -24px 47px #ffffff;
+  --shadow-flip:var( --shadow-tl)  var(--dark) inset, var(--shadow-br) var(--white) inset;
+  --shadow-active: 2px 2px 2px 0px var(--dark) inset, -2px -2px 2px 0px var(--white) inset;
+  --radius: 10rpx;
+  height: 100%;
+  background-color:var(--bgColor) ;
+  --td-popup-bg-color:var(--bgColor);
+  --td-picker-bg-color:var(--bgColor);
+  --td-picker-title-color:var(--color);
+  --td-picker-item-active-color:var(--color-active);
+  --td-picker-confirm-color:var(--color-active);
+}
+
+.wcc {
+  /* 浅色主题 */
+  --wc-bg-light: #f5f6f7; /* 主背景色 */
+  --wc-title-color-light: #333; /* 左上角日期标题 */
+  --wc-title-sub-color-light: #7A7A7A; /* 左上角日期标题的右侧描述 */
+  --wc-opt-bg-light: #D9ECFF; /* 视图控制背景色 */
+  --wc-opt-checked-bg-light: #409EFF; /* 视图控制按钮背景色 */
+  --wc-opt-color-light: #409EFF; /* 视图控制字体 */
+  --wc-opt-checked-color-light: #FFF; /* 视图控制选中字体 */
+  --wc-week-color-light: #ABABAB; /* 星期 */
+  --wc-date-color-light: #333; /* 日期 */
+  --wc-mark-color-light: #ABABAB; /* 日期下方信息 */
+  --wc-dot-color-light: #ABABAB; /* 日期上方‘･’ */
+  --wc-schedule-color-light: #409EFF; /* 日程默认 */
+  --wc-schedule-bg-light: #EAEEF2; /* 日程默认背景 */
+  --wc-today-color-light: #409EFF; /* 日期（今日） */
+  --wc-solar-color-light: #409EFF; /* 日期下方信息默认（节气，节假日） */
+  --wc-checked-color-light: #333; /* 被选日期 */
+  --wc-checked-mark-color-light: #ABABAB; /* 被选日期下方信息 */
+  --wc-checked-dot-color-light: #ABABAB; /* 被选日期上方‘･’ */
+  --wc-checked-today-color-light: #FFF; /* 被选日期（今日） */
+  --wc-checked-bg-light: #F5F5F5; /* 被选日期背景圆圈 */
+  --wc-checked-today-bg-light: #409EFF; /* 被选日期背景圆圈（今日） */
+  --wc-control-bg-light: #DFDFDF; /* 底部控制条背景 */
+  --wc-annual-bg-light: #FFF; /* 年面板背景 */
+  --wc-annual-title-color-light: #333; /* 年面板左上角标题 */
+  --wc-annual-title-sub-color-light: #7A7A7A; /* 年面板左上角标题右侧信息 */
+
+  /* 深色主题，以下和浅色主题一一对应 */
+  --wc-bg-dark: #000;
+  --wc-title-color-dark: #E5E5E5;
+  --wc-title-sub-color-dark: #7A7A7A;
+  --wc-opt-bg-dark: #332D2D80;
+  --wc-opt-checked-bg-dark: #409EFF;
+  --wc-opt-color-dark: #409EFF;
+  --wc-opt-checked-color-dark: #FFF;
+  --wc-week-color-dark: #ABABAB;
+  --wc-date-color-dark: #E5E5E5;
+  --wc-mark-color-dark: #5F5F5F;
+  --wc-dot-color-dark: #ABABAB;
+  --wc-schedule-color-dark: #66B1FF;
+  --wc-schedule-bg-dark: #332D2D80;
+  --wc-today-color-dark: #409EFF;
+  --wc-solar-color-dark: #409EFF;
+  --wc-checked-color-dark: #E5E5E5;
+  --wc-checked-mark-color-dark: #5F5F5F;
+  --wc-checked-dot-color-dark: #ABABAB;
+  --wc-checked-today-color-dark: #E5E5E5;
+  --wc-checked-bg-dark: #262626;
+  --wc-checked-today-bg-dark: #409EFF;
+  --wc-control-bg-dark: #262626;
+  --wc-annual-bg-dark: #000;
+  --wc-annual-title-color-dark: #E5E5E5;
+  --wc-annual-title-sub-color-dark: #3F3F3F;
+
+  /** 字号 */
+  --wc-title-size: 46rpx; /** 左上角日期标题字号 */ 
+  --wc-title-sub-size: 20rpx; /** 左上角日期标题右侧描述信息字号 */ 
+  --wc-operator-size: 22rpx; /** 视图控制按钮字号 */ 
+  --wc-week-size: 20rpx; /** 星期字号 */ 
+  --wc-date-size: 36rpx; /** 日期字体字号 */ 
+  --wc-mark-size: 20rpx; /** 日期下方信息字体字号 */ 
+  --wc-corner-size: 16rpx; /** 日期角标字体字号 */ 
+  --wc-schedule-size: 16rpx; /** 日程字体字号 */ 
+  --wc-annual-title-size: 50rpx; /** 年面板左上角年份标题字体字号 */ 
+  --wc-annual-title-sub-size: 18rpx; /** 年面板左上角年份标题右侧信息字体字号 */ 
+
+}
+.t-picker{
+  background-color: var(--bgColor);
+}

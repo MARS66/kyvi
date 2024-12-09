@@ -1,0 +1,56 @@
+/* components/my-grid/my-grid.wxss */
+.kv-grid{
+  background-color:var(--bgColor);
+  color: var(--color);
+  padding-top: 30rpx;
+  .grid_title{
+    display: flex;
+    align-items: center;
+    line-height: 1;
+    padding: 0 10rpx;
+    .iconfont{
+      color: #ff5700;
+      font-size: 40rpx;
+    }
+    .title_text{
+      padding:  0 8px;
+      font-size: medium;
+      font-weight: 600;
+    }
+  }
+  .kv-container{
+    padding: 40rpx;
+    display: grid;
+    gap: 30rpx;
+    grid-template-columns: repeat(3,1fr);
+    .kv-item{
+      font-size: 26rpx;
+      text-align: center;
+      border-radius: 20rpx;
+      background-color: var(--bgColor);
+      padding:30rpx 20rpx;
+      box-shadow:var(--shadow) ;
+      border-radius:var(--radius);
+      &:focus,
+      &:active{
+        box-shadow: var(--shadow-active);
+      }
+      .icon{
+        height: 80rpx;
+        width: 80rpx;
+        border-radius: 10rpx;
+      }
+      .iconfont{
+        display: inline-block;
+        height: 80rpx;
+        width: 80rpx;
+        font-size: 80rpx;
+      }
+      .item-name{
+        padding-top: 10rpx;
+        text-align: center;
+      }
+    }
+   
+  }
+}

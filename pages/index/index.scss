@@ -1,0 +1,112 @@
+.container{
+  height: 100%;
+  box-sizing: border-box;
+  min-height: 100vh;
+  padding-top: 20rpx;
+  background-color: var(--bgColor);
+}
+.container .wc__panel-week .wc__panel-date:first-of-type .wc__panel-solar,
+.container .wc__panel-week .wc__panel-date:last-of-type .wc__panel-solar{
+  color: #eb33339c;
+}
+.container .wc__week-item {
+  font-size: 28rpx;
+}
+.container .wc__week{
+  height: unset;
+  color: #eb33339c;
+  padding-bottom: 30rpx;
+  padding-top: 20rpx;
+}
+.container .wc__week-item:first-of-type,
+.container .wc__week-item:last-of-type{
+  color: #eb33339c;
+}
+.container .wc__panel-corner{
+  top: -16rpx ;
+  right: -12px;
+  font-size: 18rpx;
+  font-weight: 600;
+}
+.container .wc__panel-pointer{
+  border-radius: 8rpx;
+}
+.container .wc__panel-mark{
+  font-weight: 400;
+}
+.sum-date{
+  // background-color: #fff;
+  margin: 20rpx;
+  margin-top: 40rpx;
+  padding: 20rpx;
+  line-height: 50rpx;
+  font-size: 32rpx;
+  font-weight: 600;
+  color: var(--color);
+  background-color: var(--bgColor);
+  border-radius: var(--radius);
+  box-shadow:var(--shadow) ;
+  position: relative;
+}
+.soft-card{
+  margin: 20rpx;
+  background-color: var(--bgColor);
+  border-radius: var(--radius);
+  box-shadow:var(--shadow) ;
+  overflow: hidden;
+  .wcc{
+    width: 100%;
+  }
+}
+
+.sum-date>view{
+  display: flex;
+  align-items: center;
+}
+.sum-date .yw{
+  display: inline;
+}
+.sum-date .yw_cn{
+  padding: 0 10px;
+}
+.positioning{
+  position: absolute;
+  right: 20rpx;
+  top: 40rpx;
+  color: var(--white);
+  background-color: var(--bgColor2);
+  padding: 20rpx;
+  border-radius: 50%;
+  cursor: pointer;
+  animation: shadow-drop-center 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) both infinite ;
+}
+// .wc__panel-date--checked .wc__panel-day{
+//   box-shadow: var(--shadow);
+//   border-radius: var(--radius);
+// }
+@keyframes shadow-drop-center {
+  0% {
+    -webkit-box-shadow: 0 0 0 0 #409EFF;
+            box-shadow: 0 0 0 0 #409EFF;
+  }
+  100% {
+    -webkit-box-shadow: 0 0 20px 0px #40a0ff57;
+            box-shadow: 0 0 20px 0px  #40a0ff57;
+  }
+}
+.cumston{
+  padding: 0 10rpx;
+}
+.swiper{
+  height: unset;
+  width: 100%;
+  aspect-ratio: 9/16;
+}
+.swiper-item{
+  height: unset;
+}
+@media (prefers-color-scheme: dark) {
+	page {
+			background-color: #111;
+	}
+}

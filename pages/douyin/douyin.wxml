@@ -1,0 +1,30 @@
+<view class="douyin">
+    <view class="ad-custom ">
+        <ad-custom unit-id="adunit-b7e211d865d802a2"></ad-custom>
+    </view>
+    <t-notice-bar
+    visible="{{true}}"
+    interval="{{3000}}"
+    marquee
+    content="本工具永久免费使用！您的分享，是对小工具最大的支持！感谢分享,谢谢家人们！!"
+    prefixIcon="sound"
+    theme="info"
+  ></t-notice-bar>
+    <view class="box">
+      <view class="label">
+       <view>粘贴视频或图集链接</view> 
+       <view class="clear" bind:tap="handlerClear">清空内容</view>
+      </view>
+      <t-textarea 
+       size="small" 
+       value='{{url}}' 
+       bind:change="handlerChange"  
+       autosize="{{autosize}}"
+       placeholder="请粘贴视频分享链接" />
+       <view class="btn">
+          <view class="button paste" bind:tap="handlerPaste"> 粘贴并解析</view>
+          <view class="button" bind:tap="startResolving">开始解析</view>
+       </view>
+    </view>
+  
+</view>

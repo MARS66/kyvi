@@ -1,0 +1,5 @@
+<!--pages/applay/applay.wxml-->
+<t-message id="t-message" />
+<view class="apply">
+  <kv-grid data="{{gridData}}"></kv-grid>
+</view>

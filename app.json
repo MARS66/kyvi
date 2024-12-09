@@ -1,0 +1,41 @@
+{
+  "entryPagePath":"pages/index/index",
+  "pages": [
+    "pages/index/index",
+    "pages/saveVideo/saveVideo",
+    "pages/douyin/douyin",
+    "pages/apply/apply"
+  ],
+  "window": {
+    "homeButton":false,
+    "backgroundColor":"#f5f6f7",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarBackgroundColor": "#f5f6f7"
+  },
+  "tabBar": {
+    "color":"#ABABAB",
+    "selectedColor":"#333",
+    "backgroundColor":"#f5f6f7",
+    "borderStyle":"white",
+    "list": [
+        {
+          "text": "彝历",
+          "pagePath": "pages/index/index",
+          "iconPath":"/static/images/calendar.png",
+          "selectedIconPath":"/static/images/calendar_a.png"
+        },
+        {
+          "text": "更多",
+          "pagePath": "pages/apply/apply",
+          "iconPath":"/static/images/more.png",
+          "selectedIconPath":"/static/images/more_a.png"
+        }
+      ]
+  },
+  "style": "v2",
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents",
+  "requiredBackgroundModes": ["audio", "location"]
+}

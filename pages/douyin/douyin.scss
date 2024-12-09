@@ -1,0 +1,104 @@
+/* pages/douyin/douyin.wxss */
+.douyin{
+  .ad-custom {
+    width: 100%;
+    aspect-ratio: 16/9;
+  }
+  .t-notice-bar{
+    padding:10rpx 20rpx;
+    color: var(--color-active);
+    font-size: 28rpx;
+    background-color: var(--dark);
+    .t-icon-base{
+      padding-top: 6rpx;
+      font-size: 32rpx;
+    }
+    
+    .t-notice-bar__content-wrap{
+      color: var(--color-active);
+    }
+  }
+  // background-color: #fff;
+  min-height: 100%;
+  .t-swiper-host {
+    border-radius: 0;
+  }
+  .box{
+    padding: 20rpx;
+    .label{
+      font-size: 28rpx;
+      line-height: 30rpx;
+      padding: 10rpx 20rpx 30rpx 20rpx;
+      color: #333;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      &::before{
+        content: '';
+        display: inline-block;
+        background-color: #409EFF;
+        height: 30rpx;
+        width: 8rpx;
+        margin-right: 10rpx;
+      }
+      .clear{
+        flex: 1;
+        text-align: right;
+        font-weight: normal;
+        color: #eb3333;
+        cursor: pointer;
+      }
+    }
+    .t-textarea {
+      padding: 30rpx;
+      border-radius: 10rpx;
+      color: var(--color);
+      margin-bottom: 20rpx;
+      background-color: var(--bgColor);
+      box-shadow: var(--shadow); 
+      box-shadow: var(--shadow-active);
+      .t-textarea__wrapper-inner {
+        font-size: 26rpx;
+        min-height: 30rpx;
+      }
+    }
+   
+    .btn{
+      padding: 50rpx 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20rpx;
+      .button {
+        height: 36rpx;
+        line-height: 36rpx;
+        flex: 1;
+        display: inline-block;
+        border-radius: var(--radius);
+        border: none;
+        background:  #1875FF;
+        color: white;
+        font-family: inherit;
+        text-align: center;
+        font-size: 26rpx;
+        box-shadow: 0 28rpx 56rpx -22rpx #1875FF;
+        padding: 20rpx 40rpx;
+        transition: all 0.4s;
+        cursor: pointer;
+        &:hover{
+          box-shadow:  4px 4px 7px #3686d9, 
+          -4px -4px 7px #4ab6ff ;
+         }
+       }
+       .paste{
+         background: var(--bgColor);
+         color: var(--color-active);
+         box-shadow: var(--shadow);
+         transition: all 0.4s;
+         &:hover{
+          box-shadow: var(--shadow-active);
+         }
+       }
+    }
+  }
+}

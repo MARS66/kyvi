@@ -1,0 +1,62 @@
+<view class="container">
+<view class="soft-card">
+  <calendar 
+    id="calendar" 
+    style="--wc-mark-color-light:#000;--wc-checked-bg-light:rgba(0, 0, 0, 0.1);--wc-bg-light: #f5f6f7;--wc-annual-bg-light:#f5f6f7;"
+    weekstart="{{0}}"
+    view="month"
+    marks="{{ markers }}" 
+    areas="{{['header', 'title', 'subinfo', 'today', 'viewbar', 'dragbar']}}"
+    bindload="handleLoad"
+    bindclick="handleClick"
+    bindchange="handleChange" 
+    bindviewchange="handleViewChange">
+  </calendar>
+</view>
+  <view class="sum-date">
+    <view>彝历：<view class="yw">{{sumDate.yw}}</view> <view class="yw_cn">{{sumDate.moon}}</view> {{sumDate.cn}}</view>
+    <view>塔博：{{sumDate.tb}}</view>
+    <view>公历：{{sumDate.gl}}</view>
+    
+    <t-icon 
+    t-class="positioning"
+    name="search" 
+    size="50rpx"  
+    bind:click="showPicker" />
+  </view>
+<view class="cumston">
+  <!-- <swiper
+  class="swiper"
+    autoplay 
+    circular
+    interval="{{5000}}"
+    easing-function="linear"
+    duration="{{300}}">
+      <swiper-item class="swiper-item">
+        <ad-custom unit-id="adunit-b7e211d865d802a2" bindload="adLoad" binderror="adError" bindclose="adClose"></ad-custom>
+      </swiper-item>
+      <swiper-item>
+        <ad-custom unit-id="adunit-b7e211d865d802a2"></ad-custom>
+      </swiper-item>
+      <swiper-item>
+        <ad-custom unit-id="adunit-b7e211d865d802a2"></ad-custom>
+      </swiper-item>
+      <swiper-item>
+        <ad-custom unit-id="adunit-b7e211d865d802a2"></ad-custom>
+      </swiper-item>
+  </swiper> -->
+  
+
+</view>
+</view>
+<!-- 年月日 -->
+<t-date-time-picker
+  auto-close
+  title="跳转到指定时间"
+  visible="{{dateVisible}}"
+  mode="date"
+  default-value="{{date}}"
+  format="YYYY-MM-DD"
+  start="1970-01-01 00:00:00"
+  bindchange="onConfirm"
+/>
